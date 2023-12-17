@@ -11,5 +11,5 @@ const generateMessage = async (room, user, text) => {
 };
 
 module.exports = {
-  generateMessage
+  generateMessage,
 };
